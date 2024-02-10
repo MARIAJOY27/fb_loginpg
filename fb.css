@@ -1,0 +1,113 @@
+body{
+    background-color: #f0f2f5;
+}
+.container2{
+  margin-top: -16px;
+}
+.container1 h1{
+    color: #316FF6;
+    margin-left: 660px;
+    margin-top: 60px;
+    font-size: 44px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#form1{
+    margin-left: 564px;
+    width: 380px;
+    height: 320px;
+    background-color: #fff;
+}
+#form1 p{
+    padding-left: 110px;
+    padding-top: 25px;
+    font-size: 22px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#email{
+    margin: auto;
+    margin-left: 20px;
+    width: 331px;
+    height: 38px;
+    border-radius: 5px;
+    border: groove;
+}
+
+#psw{
+    margin: auto;
+    margin-left: 20px;
+    width: 331px;
+    height: 38px;
+    border-radius: 5px;
+    border: groove;
+}
+
+#btn{
+    margin-left: 20px;
+    width: 335px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #316FF6;
+    font-size: 23px;
+}
+a+a{
+    margin-left: 14px;
+    
+}
+#a1{
+    margin-left: 58px;
+    text-decoration: none;
+    color: #316FF6;
+}
+#a2{
+    text-decoration: none;
+    color: #316FF6;
+}
+#a1:hover{
+    text-decoration: underline;
+}
+#a2:hover{
+    text-decoration: underline;
+}    
+.footer{
+    padding-left: 300px;
+    height: 360px;
+    background-color: white;
+    text-decoration: none;
+}
+.footer ul li{
+    display: inline-block;
+}
+.foot1 {
+    padding-top: 85px;
+}
+.foot1 a{
+    color: #737373;
+    font-size: 12px;
+    margin-right: 12px;
+    text-decoration: none;
+}
+.foot1 a:hover{
+    text-decoration: underline;
+}
+.footer hr{
+    margin-left: 40px;
+    width: 700px;
+    }
+.foot2 a{
+    color: #737373;
+    font-size: 13.5px;
+    margin-right: 12px;
+}    
+.foot2 a{
+    text-decoration: none;
+}
+.foot2 a:hover{
+    text-decoration: underline;
+}
+.foot2 p{
+    color: #737373;
+    font-size: 13.5px;
+}
